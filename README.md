@@ -11,6 +11,7 @@ Mini Blog is a simple blogging platform built with Next.js, React, and Tailwind 
 
 ## Project Structure
 
+```
 ├── src/
 │ ├── components/ # Reusable React components
 │ ├── data/ # Data fetching and storage logic
@@ -21,6 +22,7 @@ Mini Blog is a simple blogging platform built with Next.js, React, and Tailwind 
 ├── package.json # Project dependencies and scripts
 ├── tailwind.config.js # Tailwind CSS configuration
 ├── next.config.mjs # Next.js configuration
+```
 
 ## Getting Started
 
@@ -42,8 +44,19 @@ Ensure you have the following installed:
    ```
 
 2. Install dependencies
-   npm install
-3. Start Development Server
-   npm run dev
 
-The application will be available at http://localhost:3000.
+```
+   npm install
+```
+
+3. Start Development Server
+
+```
+   npm run dev
+```
+
+The application will be available at
+
+```
+http://localhost:3000.
+```
